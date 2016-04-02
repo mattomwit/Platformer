@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: c8aef1e7e2539bb4fa6f2b1143463bec
+timeCreated: 1455644738
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wind_003_0
+    21300002: wind_003_1
+    21300004: wind_003_2
+    21300006: wind_003_3
+    21300008: wind_003_4
+    21300010: wind_003_5
+    21300012: wind_003_6
+    21300014: wind_003_7
+    21300016: wind_003_8
+    21300018: wind_003_9
+    21300020: wind_003_10
+    21300022: wind_003_11
+    21300024: wind_003_12
+    21300026: wind_003_13
+    21300028: wind_003_14
+    21300030: wind_003_15
+    21300032: wind_003_16
+    21300034: wind_003_17
+    21300036: wind_003_18
+    21300038: wind_003_19
+    21300040: wind_003_20
+    21300042: wind_003_21
+    21300044: wind_003_22
+    21300046: wind_003_23
+    21300048: wind_003_24
+    21300050: wind_003_25
+    21300052: wind_003_26
+    21300054: wind_003_27
+    21300056: wind_003_28
+    21300058: wind_003_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wind_003_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: -64}
+        - {x: 73, y: -48}
+        - {x: 73, y: -34}
+        - {x: 45, y: -17}
+        - {x: -37, y: -17}
+        - {x: -77, y: -35}
+        - {x: -77, y: -88}
+        - {x: -50, y: -96}
+        - {x: 53, y: -96}
+        - {x: 73, y: -72}
+        - {x: 73, y: -64}
+        - {x: 71, y: -63}
+    - name: wind_003_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -12}
+        - {x: -31, y: -15}
+        - {x: -45, y: -23}
+        - {x: -66, y: -45}
+        - {x: -68, y: -51}
+        - {x: -68, y: -79}
+        - {x: -32, y: -96}
+        - {x: 67, y: -96}
+        - {x: 83, y: -75}
+        - {x: 83, y: -33}
+        - {x: 37, y: -12}
+    - name: wind_003_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -5}
+        - {x: -78, y: -37}
+        - {x: -78, y: -87}
+        - {x: -57, y: -91}
+        - {x: 78, y: -91}
+        - {x: 80, y: -88}
+        - {x: 80, y: -40}
+        - {x: 46, y: -5}
+    - name: wind_003_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 2}
+        - {x: -82, y: -30}
+        - {x: -82, y: -94}
+        - {x: -73, y: -96}
+        - {x: 77, y: -96}
+        - {x: 77, y: -6}
+        - {x: 42, y: 2}
+    - name: wind_003_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -2}
+        - {x: 33, y: 4}
+        - {x: 11, y: 10}
+        - {x: 9, y: 10}
+        - {x: 8, y: 7}
+        - {x: 9, y: 5}
+        - {x: 6, y: 10}
+        - {x: -15, y: 10}
+        - {x: -42, y: 5}
+        - {x: -70, y: -34}
+        - {x: -70, y: -67}
+        - {x: -52, y: -96}
+        - {x: 41, y: -96}
+        - {x: 78, y: -82}
+        - {x: 82, y: -66}
+        - {x: 82, y: -42}
+    - name: wind_003_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -2}
+        - {x: 27, y: 19}
+        - {x: -34, y: 19}
+        - {x: -55, y: 9}
+        - {x: -62, y: -28}
+        - {x: -62, y: -82}
+        - {x: -54, y: -96}
+        - {x: 42, y: -96}
+        - {x: 70, y: -84}
+        - {x: 84, y: -66}
+        - {x: 84, y: -49}
+    - name: wind_003_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 27}
+        - {x: -36, y: 27}
+        - {x: -79, y: 7}
+        - {x: -79, y: -89}
+        - {x: -57, y: -96}
+        - {x: 81, y: -96}
+        - {x: 82, y: -95}
+        - {x: 82, y: -16}
+        - {x: 75, y: 13}
+      - - {x: 84, y: -65}
+        - {x: 87, y: -64}
+        - {x: 87, y: -61}
+        - {x: 84, y: -60}
+        - {x: 82, y: -62}
+    - name: wind_003_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 35}
+        - {x: -80, y: 13}
+        - {x: -80, y: -96}
+        - {x: 26, y: -96}
+        - {x: 55, y: -88}
+        - {x: 80, y: -71}
+        - {x: 80, y: 35}
+    - name: wind_003_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: -96}
+        - {x: 57, y: -96}
+        - {x: 73, y: -92}
+        - {x: 73, y: 14}
+        - {x: 72, y: 17}
+        - {x: 19, y: 44}
+        - {x: -37, y: 44}
+        - {x: -77, y: 27}
+    - name: wind_003_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 52}
+        - {x: -78, y: 42}
+        - {x: -78, y: -90}
+        - {x: -71, y: -96}
+        - {x: 74, y: -96}
+        - {x: 74, y: 51}
+        - {x: 67, y: 52}
+      - - {x: 75, y: -64}
+        - {x: 78, y: -63}
+        - {x: 78, y: -60}
+        - {x: 75, y: -59}
+        - {x: 73, y: -61}
+    - name: wind_003_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 60}
+        - {x: -32, y: 60}
+        - {x: -75, y: 36}
+        - {x: -75, y: -96}
+        - {x: 71, y: -96}
+        - {x: 85, y: -83}
+        - {x: 85, y: -5}
+        - {x: 78, y: 50}
+      - - {x: 86, y: -52}
+        - {x: 89, y: -51}
+        - {x: 89, y: -48}
+        - {x: 86, y: -47}
+        - {x: 84, y: -49}
+    - name: wind_003_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 61}
+        - {x: -71, y: 56}
+        - {x: -80, y: 30}
+        - {x: -80, y: -78}
+        - {x: -67, y: -93}
+        - {x: -64, y: -95}
+        - {x: 56, y: -95}
+        - {x: 78, y: -83}
+        - {x: 78, y: 43}
+        - {x: 35, y: 61}
+    - name: wind_003_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 63}
+        - {x: -74, y: 55}
+        - {x: -74, y: -89}
+        - {x: -62, y: -95}
+        - {x: 70, y: -95}
+        - {x: 72, y: -94}
+        - {x: 72, y: 50}
+        - {x: 40, y: 63}
+    - name: wind_003_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 68}
+        - {x: -39, y: 68}
+        - {x: -78, y: 54}
+        - {x: -78, y: -92}
+        - {x: -53, y: -96}
+        - {x: 46, y: -96}
+        - {x: 75, y: -68}
+        - {x: 75, y: 43}
+        - {x: 51, y: 60}
+    - name: wind_003_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 72}
+        - {x: -62, y: 64}
+        - {x: -75, y: 52}
+        - {x: -75, y: -80}
+        - {x: -36, y: -96}
+        - {x: 84, y: -96}
+        - {x: 84, y: 62}
+        - {x: 61, y: 72}
+      - - {x: 85, y: -65}
+        - {x: 88, y: -64}
+        - {x: 88, y: -61}
+        - {x: 85, y: -60}
+        - {x: 83, y: -62}
+      - - {x: 78, y: 6}
+        - {x: 81, y: 7}
+        - {x: 81, y: 10}
+        - {x: 78, y: 11}
+        - {x: 76, y: 9}
+    - name: wind_003_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 79}
+        - {x: -73, y: 77}
+        - {x: -73, y: -78}
+        - {x: -55, y: -92}
+        - {x: -47, y: -93}
+        - {x: 67, y: -93}
+        - {x: 82, y: -74}
+        - {x: 82, y: 55}
+        - {x: 45, y: 79}
+    - name: wind_003_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 84}
+        - {x: -76, y: 69}
+        - {x: -76, y: -73}
+        - {x: -43, y: -81}
+        - {x: 55, y: -81}
+        - {x: 70, y: -66}
+        - {x: 80, y: -59}
+        - {x: 80, y: 66}
+        - {x: 78, y: 84}
+    - name: wind_003_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 79}
+        - {x: -78, y: 63}
+        - {x: -78, y: -43}
+        - {x: -75, y: -72}
+        - {x: -37, y: -90}
+        - {x: 17, y: -90}
+        - {x: 60, y: -52}
+        - {x: 76, y: 12}
+        - {x: 76, y: 79}
+    - name: wind_003_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 77}
+        - {x: -41, y: 77}
+        - {x: -75, y: 68}
+        - {x: -79, y: 59}
+        - {x: -79, y: -71}
+        - {x: -36, y: -87}
+        - {x: 55, y: -87}
+        - {x: 74, y: -74}
+        - {x: 78, y: -35}
+        - {x: 78, y: 61}
+    - name: wind_003_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 79}
+        - {x: -79, y: 67}
+        - {x: -79, y: 2}
+        - {x: -63, y: -72}
+        - {x: -47, y: -81}
+        - {x: 48, y: -81}
+        - {x: 81, y: -45}
+        - {x: 81, y: 60}
+        - {x: 53, y: 79}
+    - name: wind_003_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 86}
+        - {x: -77, y: 86}
+        - {x: -77, y: -67}
+        - {x: -51, y: -75}
+        - {x: 43, y: -75}
+        - {x: 55, y: -66}
+        - {x: 83, y: 7}
+        - {x: 83, y: 73}
+    - name: wind_003_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 82}
+        - {x: -48, y: 82}
+        - {x: -79, y: 64}
+        - {x: -79, y: -60}
+        - {x: -76, y: -74}
+        - {x: 58, y: -74}
+        - {x: 68, y: -57}
+        - {x: 78, y: -2}
+        - {x: 78, y: 65}
+    - name: wind_003_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 82}
+        - {x: -79, y: 82}
+        - {x: -79, y: -13}
+        - {x: -66, y: -60}
+        - {x: -22, y: -72}
+        - {x: 46, y: -72}
+        - {x: 69, y: -61}
+        - {x: 77, y: -9}
+        - {x: 77, y: 71}
+    - name: wind_003_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 77}
+        - {x: -78, y: 65}
+        - {x: -78, y: -32}
+        - {x: -70, y: -64}
+        - {x: -60, y: -69}
+        - {x: 52, y: -69}
+        - {x: 82, y: -29}
+        - {x: 82, y: 68}
+        - {x: 73, y: 77}
+    - name: wind_003_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 84}
+        - {x: -78, y: 55}
+        - {x: -78, y: -8}
+        - {x: -57, y: -58}
+        - {x: -35, y: -65}
+        - {x: 39, y: -65}
+        - {x: 80, y: -16}
+        - {x: 80, y: 61}
+        - {x: 45, y: 84}
+    - name: wind_003_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 76}
+        - {x: -77, y: -2}
+        - {x: -62, y: -56}
+        - {x: -59, y: -58}
+        - {x: 52, y: -58}
+        - {x: 81, y: -35}
+        - {x: 81, y: 76}
+    - name: wind_003_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 86}
+        - {x: -78, y: 49}
+        - {x: -78, y: -12}
+        - {x: -67, y: -51}
+        - {x: 69, y: -51}
+        - {x: 82, y: -2}
+        - {x: 82, y: 70}
+        - {x: 50, y: 86}
+    - name: wind_003_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 84}
+        - {x: -80, y: 65}
+        - {x: -80, y: -18}
+        - {x: -52, y: -54}
+        - {x: 41, y: -54}
+        - {x: 66, y: -35}
+        - {x: 78, y: 5}
+        - {x: 78, y: 77}
+        - {x: 63, y: 84}
+    - name: wind_003_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: -19}
+        - {x: 65, y: -7}
+        - {x: 72, y: 9}
+        - {x: 72, y: 49}
+        - {x: 41, y: 72}
+        - {x: -47, y: 72}
+        - {x: -77, y: 57}
+        - {x: -77, y: -18}
+        - {x: -38, y: -50}
+        - {x: 34, y: -50}
+        - {x: 50, y: -44}
+        - {x: 51, y: -32}
+        - {x: 50, y: -29}
+        - {x: 45, y: -28}
+    - name: wind_003_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 33}
+        - {x: 33, y: 41}
+        - {x: 30, y: 34}
+        - {x: 30, y: 33}
+        - {x: 36, y: 29}
+        - {x: 30, y: 31}
+        - {x: 30, y: 40}
+        - {x: 18, y: 44}
+        - {x: -28, y: 44}
+        - {x: -34, y: 42}
+        - {x: -32, y: 38}
+        - {x: -30, y: 32}
+        - {x: -28, y: 30}
+        - {x: -30, y: 31}
+        - {x: -35, y: 38}
+        - {x: -47, y: 38}
+        - {x: -55, y: 32}
+        - {x: -54, y: 30}
+        - {x: -50, y: 26}
+        - {x: -42, y: 26}
+        - {x: -41, y: 25}
+        - {x: -39, y: 25}
+        - {x: -45, y: 26}
+        - {x: -61, y: 25}
+        - {x: -62, y: 22}
+        - {x: -62, y: 18}
+        - {x: -59, y: 16}
+        - {x: -55, y: 15}
+        - {x: -47, y: 15}
+        - {x: -50, y: 15}
+        - {x: -62, y: 12}
+        - {x: -62, y: 9}
+        - {x: -60, y: -2}
+        - {x: -33, y: -8}
+        - {x: 1, y: -19}
+        - {x: 15, y: -12}
+        - {x: 38, y: -1}
+        - {x: 41, y: 6}
+        - {x: 44, y: -1}
+        - {x: 34, y: -11}
+        - {x: -4, y: -22}
+        - {x: -7, y: -27}
+        - {x: -5, y: -28}
+        - {x: 22, y: -28}
+        - {x: 41, y: -20}
+        - {x: 58, y: -2}
+        - {x: 58, y: 12}
+      - - {x: -13, y: -14}
+        - {x: -14, y: -18}
+        - {x: -14, y: -21}
+        - {x: -9, y: -25}
+        - {x: -4, y: -25}
+        - {x: -2, y: -21}
+        - {x: -2, y: -16}
+        - {x: -3, y: -14}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
